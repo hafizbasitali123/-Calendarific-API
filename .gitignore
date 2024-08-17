@@ -1,3 +1,5 @@
-# WEB-SERVER BACKEND
 node_modules/
 package-lock.json
+
+# Editor directories and files
+.env
