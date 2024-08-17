@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-holiday-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cache": "^5.1.2",
+    "request": "^2.88.2",
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
